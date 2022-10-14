@@ -1,4 +1,4 @@
-baseURL = 'https://m4rcus3.github.io/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Marcus B'
 theme = "ananke"
