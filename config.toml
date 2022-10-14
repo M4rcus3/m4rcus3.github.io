@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/m4cus3/'
+languageCode = 'en-us'
+title = 'Marcus B'
+theme = "ananke"
